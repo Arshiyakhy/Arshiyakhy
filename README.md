@@ -20,7 +20,7 @@
 
 ### My Skills 👀
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,python,fastapi,java,postgres,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nodejs,express,spring,wordpress,mongodb,postgres,python,fastapi,java,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
