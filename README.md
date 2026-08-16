@@ -18,13 +18,13 @@
 
 ---
 
-### My Skills 👀
+### My Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,aws,react,vite,nodejs,express,spring,wordpress,mongodb,postgres,python,fastapi,java,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
-### GitHub Stats 🕰️
+### GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arshiyakhy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
