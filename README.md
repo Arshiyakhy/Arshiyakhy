@@ -11,7 +11,6 @@
 ### About me
 
 - 💻 Passionate about **coding** and building cool things
-- Next.js developer
 - 🎹 Play **piano** in my free time
 - ⚙️ Strong passion for **backend development** and systems that scale
 - 🎓 Student at **University of Toronto**
