@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sky-banner.svg" width="100%" alt="" />
+  <img src="./assets/cloud-strip.svg" width="100%" alt="" />
 </p>
 
 <h1 align="center">Arshiya Khayatzadeh</h1>
