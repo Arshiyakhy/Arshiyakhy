@@ -1,33 +1,34 @@
-<p align="center">
-  <img src="./assets/cloud-strip.svg" width="100%" alt="" />
-</p>
-
-<h1 align="center">Arshiya Khayatzadeh</h1>
+<h1 align="center">Hi, I'm Arshiya 👋</h1>
 
 <p align="center">
-  <b>Software Developer @ Oneiral</b> &nbsp;·&nbsp; CS Co-op @ University of Toronto
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&width=500&lines=Backend+%26+Full-Stack+Developer;University+of+Toronto+Student;Node.js+%7C+Hono+%7C+postgress+%7C+React;Always+learning+something+new" alt="Typing SVG" />
+  </a>
 </p>
+
+---
+
+### About me
+
+- 💻 Passionate about **coding** and building cool things
+- 🎹 Play **piano** in my free time
+- ⚙️ Strong passion for **backend development** and systems that scale
+- 🎓 Student at **University of Toronto**
+
+---
+
+### My Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,aws,react,vite,nodejs,express,spring,wordpress,mongodb,postgres,python,fastapi,java,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
+### GitHub Stats 
 
 <p align="center">
-  <a href="https://arshiyakhy.me">Website</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/arshiya-khayatzadeh">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/ArshiyaKhy">X</a> &nbsp;·&nbsp;
-  <a href="mailto:arshiya.khayatzadeh@mail.utoronto.ca">Email</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshiyakhy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Arshiyakhy&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
-<br />
-
-## About
-
-- **Now:** building a CPR feedback tool as a software developer at Oneiral
-- **Studying:** Computer Science (Software Engineering) at UofT, graduating 2029
-- **Into:** backend systems, performance, and AI/ML
-- **Off the keyboard:** ten years of piano
-
-## Tech stack
-
-<img src="./assets/stack.svg" width="100%" alt="Tech stack: C, C++, Assembly, Python, TypeScript, JavaScript, Java, Node.js, Express, Hono, FastAPI, Spring, PostgreSQL, MongoDB, React, Vite, HTML, CSS, AWS, Docker, Git, GitHub Actions, Vercel" />
-
-## On repeat
-
-<img src="https://spotify-now-playing-ten-inky.vercel.app/api/now-playing" height="140" alt="Spotify now playing" />&nbsp;&nbsp;<img src="./assets/cat.svg" height="140" alt="My cat playing with yarn" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiyakhy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
