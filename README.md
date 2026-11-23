@@ -26,13 +26,7 @@
 
 ## Tech stack
 
-**Languages** &nbsp; <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java&theme=dark" height="36" align="center" alt="Languages" />
-
-**Backend** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,mongodb&theme=dark" height="36" align="center" alt="Backend" />
-
-**Frontend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" height="36" align="center" alt="Frontend" />
-
-**Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" height="36" align="center" alt="Tools" />
+<img src="./assets/stack.svg" width="100%" alt="Tech stack: C, C++, Assembly, Python, TypeScript, JavaScript, Java, Node.js, Express, Hono, FastAPI, Spring, PostgreSQL, MongoDB, React, Vite, HTML, CSS, AWS, Docker, Git, GitHub Actions, Vercel" />
 
 ## On repeat
 
