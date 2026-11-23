@@ -5,29 +5,48 @@
 <h1 align="center">Arshiya Khayatzadeh</h1>
 
 <p align="center">
-  Computer Science @ University of Toronto &nbsp;·&nbsp; Software Developer @ Oneiral
+  <b>Software Developer @ Oneiral</b> &nbsp;·&nbsp; CS Co-op @ University of Toronto
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arshiya-khayatzadeh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:arshiya.khayatzadeh@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-30363d?style=flat-square" alt="Email" /></a>
-  <a href="https://x.com/ArshiyaKhy"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://arshiyakhy.me">Website</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/arshiya-khayatzadeh">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/ArshiyaKhy">X</a> &nbsp;·&nbsp;
+  <a href="mailto:arshiya.khayatzadeh@mail.utoronto.ca">Email</a>
 </p>
 
 <br />
 
-### About
+## About
 
-I'm a CS co-op student at the University of Toronto, focused on backend development and systems that scale. Right now I'm a software developer at Oneiral, building a CPR feedback tool. I like building things to understand how they work, and I've played piano for ten years.
+- **Now:** building a CPR feedback tool as a software developer at Oneiral
+- **Studying:** Computer Science (Software Engineering) at UofT, graduating 2029
+- **Into:** backend systems, performance, and AI/ML
+- **Off the keyboard:** ten years of piano
 
-### Tech stack
+## Featured projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,express,fastapi,spring,react,vite,html,css&theme=dark&perline=12" alt="Languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,wordpress,git,github,vscode&theme=dark" alt="Databases and tools" />
-</p>
+<table>
+  <tr>
+    <td><a href="https://github.com/Arshiyakhy/fast-nn"><img src="./assets/card-fast-nn.svg" alt="fast-nn" /></a></td>
+    <td><a href="https://github.com/Arshiyakhy/claude-companion"><img src="./assets/card-claude-companion.svg" alt="claude-companion" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mdadfarr/4sight"><img src="./assets/card-4sight.svg" alt="4sight" /></a></td>
+    <td><a href="https://github.com/Arshiyakhy/planets-physics"><img src="./assets/card-planets-physics.svg" alt="planets-physics" /></a></td>
+  </tr>
+</table>
 
-### Listening to
+## Tech stack
 
-<img src="https://spotify-now-playing-ten-inky.vercel.app/api/now-playing" width="420" alt="Spotify now playing" />
+**Languages** &nbsp; <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java&theme=dark" height="36" align="center" alt="Languages" />
+
+**Backend** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,mongodb&theme=dark" height="36" align="center" alt="Backend" />
+
+**Frontend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" height="36" align="center" alt="Frontend" />
+
+**Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" height="36" align="center" alt="Tools" />
+
+## On repeat
+
+<img src="https://spotify-now-playing-ten-inky.vercel.app/api/now-playing" width="480" alt="Spotify now playing" />
