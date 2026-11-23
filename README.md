@@ -24,19 +24,6 @@
 - **Into:** backend systems, performance, and AI/ML
 - **Off the keyboard:** ten years of piano
 
-## Featured projects
-
-<table>
-  <tr>
-    <td><a href="https://github.com/Arshiyakhy/fast-nn"><img src="./assets/card-fast-nn.svg" alt="fast-nn" /></a></td>
-    <td><a href="https://github.com/Arshiyakhy/claude-companion"><img src="./assets/card-claude-companion.svg" alt="claude-companion" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mdadfarr/4sight"><img src="./assets/card-4sight.svg" alt="4sight" /></a></td>
-    <td><a href="https://github.com/Arshiyakhy/planets-physics"><img src="./assets/card-planets-physics.svg" alt="planets-physics" /></a></td>
-  </tr>
-</table>
-
 ## Tech stack
 
 **Languages** &nbsp; <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java&theme=dark" height="36" align="center" alt="Languages" />
@@ -49,4 +36,4 @@
 
 ## On repeat
 
-<img src="https://spotify-now-playing-ten-inky.vercel.app/api/now-playing" width="480" alt="Spotify now playing" />
+<img src="https://spotify-now-playing-ten-inky.vercel.app/api/now-playing" height="140" alt="Spotify now playing" />&nbsp;&nbsp;<img src="./assets/cat.svg" height="140" alt="My cat playing with yarn" />
